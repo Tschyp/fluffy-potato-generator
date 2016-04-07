@@ -1,11 +1,11 @@
 1. Funkcionalitás
 
 1
-alma
+alma bor
 2
 körte
 3
-szilva
+szilva lekvár
 
 2. Architektúra
 
