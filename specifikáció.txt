@@ -1,3 +1,17 @@
 1. Funkcionalitás
 
+1
+alma
+2
+körte
+3
+szilva
+
 2. Architektúra
+
+1
+alma
+2
+körte
+3
+szilva
