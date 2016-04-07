@@ -10,8 +10,8 @@ szilva
 2. Architektúra
 
 1
-alma
+almabor
 2
 körte
 3
-szilva
+szilvalekvár
