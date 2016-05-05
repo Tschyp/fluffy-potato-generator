@@ -2,21 +2,19 @@
 
 import random
 def haromszog():
-    szamok
-    for 
-    szamok.add = random.randint(2,15)
+    szamok =[]
+    for i in range(3):
+        szamok.append(random.randint(2,15))
+    
+    feladat = 'Megszerkeszthető-e a háromszög '+ str(szamok[0]) +', '+ str(szamok[1]) +', '+ str(szamok[2]) +' oldalakból?'
+    
+    megoldas = szamok[0] + szamok[1] > szamok[2] and szamok[1] + szamok[2] > szamok[0] and szamok[0]+szamok[2] > szamok[1]
+    
+    
+    
+    return feladat, megoldas
 
-
-    feladat = 'Megszerkeszthető-e a háromszög ' + szamok[1] +",...... oldalakból?'
-    
-    
-#valami ilyesmi kéne    
-    
-    
-    
-    return feladat, lehet, lehet.index(aktualis[jo])
-
-feladat, lehet, jo = haromszog()
+feladat, megoldas = haromszog()
 print(feladat)
-print(lehet)
-print('A helyes megoldás: '+lehet[jo])
+print('Igen / Nem')
+print('A helyes megoldás: '+str(megoldas))
