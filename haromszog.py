@@ -14,7 +14,7 @@ def haromszog():
     
     return feladat, megoldas
 
-feladat, megoldas = haromszog()
-print(feladat)
-print('Igen / Nem')
-print('A helyes megoldás: '+str(megoldas))
+#feladat, megoldas = haromszog()
+#print(feladat)
+#print('Igen / Nem')
+#print('A helyes megoldás: '+str(megoldas))
